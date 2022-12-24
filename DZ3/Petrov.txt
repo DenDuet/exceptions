@@ -1,0 +1,6 @@
+<Petrov><Semen><Semenovich><12.11.2022><45512><f>
+<Petrov><Petr><Ivaonich><11.11.2011><12488><f>
+<Petrov><Petja><Sergeevich><11.11.2011><12457896><f>
+<Petrov><Vasiliy><Semenich><12.12.1954><123><f>
+<Petrov><Petr><Petrovich><1.1.2011><12><f>
+<Petrov><Iv><Gen><12.7.1977><12345678><f>
